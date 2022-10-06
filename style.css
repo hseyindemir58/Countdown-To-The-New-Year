@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'montserrat', sans-serif;
+    color: rgb(0, 255, 21);
+    background-image: url(yılbaşı.jpg);
+}
+
+.countdown{
+    display: flex;
+    justify-content: space-between;
+    max-width: 400px;
+    margin: 50px auto;
+}
+
+.countdown div{
+    font-size: 50px;
+}
